@@ -1,6 +1,10 @@
 # Windows10Debloater
 Script/Utility/Application to debloat Windows 10
 
+This fork includes more code from a source I can no longer find. If it's yours, please let me know so I can credit you.
+
+Snippits of code from https://github.com/alicata/mixbag for Updates and Power handling.
+
 # How To Run the Windows10Debloater.ps1 and the Windows10DebloaterGUI.ps1 files
 
 There are different methods of running the PowerShell script. The methods are as follows:
