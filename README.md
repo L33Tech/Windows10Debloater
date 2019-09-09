@@ -5,7 +5,11 @@ This fork includes more code from a source I can no longer find. If it's yours, 
 
 Snippits of code from https://github.com/alicata/mixbag for Updates and Power handling.
 
-# How To Run the Windows10Debloater.ps1 and the Windows10DebloaterGUI.ps1 files
+# How To Use
+
+All scripts need admin.
+
+# Running the .ps1 files
 
 There are different methods of running the PowerShell script. The methods are as follows:
 
